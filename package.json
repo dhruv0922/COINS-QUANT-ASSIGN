@@ -1,0 +1,28 @@
+{
+  "name": "coins-quant-assign",
+  "version": "1.0.0",
+  "description": "This is an email utility integrated within a network of loosely interconnected microservices, accessible to users across the company via an API gateway",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruv0922/COINS-QUANT-ASSIGN.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhruv0922/COINS-QUANT-ASSIGN/issues"
+  },
+  "homepage": "https://github.com/dhruv0922/COINS-QUANT-ASSIGN#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.3",
+    "nodemailer": "^6.9.12",
+    "util": "^0.12.5"
+  },
+  "type": "module"
+}
