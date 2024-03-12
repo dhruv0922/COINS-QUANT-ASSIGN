@@ -26,3 +26,4 @@ ALTER TABLE email_logs AUTO_INCREMENT = 1;
 start reddis
 start sever.js
 start worker.js
+start python
