@@ -22,3 +22,7 @@ SHOW TABLES; --> show tables in the database
 SELECT * FROM your_table; --> show all data in the selected table
 DELETE FROM your_table; --> delete all date in the selected table
 ALTER TABLE email_logs AUTO_INCREMENT = 1;
+
+start reddis
+start sever.js
+start worker.js
